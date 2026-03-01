@@ -1,0 +1,4 @@
+{
+  // Nuxt 3 が自動生成する型定義を継承する
+  "extends": "./.nuxt/tsconfig.json"
+}

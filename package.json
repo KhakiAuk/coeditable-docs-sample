@@ -1,0 +1,22 @@
+{
+  "name": "coeditable-docs-sample",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "preview": "nuxt preview"
+  },
+  "dependencies": {
+    "nuxt": "^3.11.0",
+    "vue": "^3.4.0",
+    "yjs": "^13.6.18"
+  },
+  "devDependencies": {
+    "@nuxt/typescript-build": "^3.0.0",
+    "typescript": "^5.4.0"
+  },
+  "volta": {
+    "node": "24.13.1"
+  }
+}
