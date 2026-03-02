@@ -14,7 +14,6 @@
     "yjs": "^13.6.18"
   },
   "devDependencies": {
-    "@nuxt/typescript-build": "^3.0.0",
     "typescript": "^5.4.0"
   },
   "volta": {
